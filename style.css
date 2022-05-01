@@ -30,7 +30,7 @@ body{
 header{
     background-color: var(--darkbrow);
     min-height: 50px;
-    min-width: 350px;
+    
 }
 header p{
     color: #BFBFBF;
@@ -48,7 +48,7 @@ section#frist img{
     background-color: var(--Grey);
     min-height:49em ;
     padding-bottom:30px ;
-    min-width: 350px;
+    
 }
 
 
@@ -65,7 +65,7 @@ section#frist img{
     flex-direction: column;
     justify-content: center;
     font-size: 26px;
-    width: 400px;
+    width: 350px;
     padding: 0px 30px 20px 0px;
     text-align:left ;
     
@@ -129,7 +129,7 @@ main section#midle{
 
 aside{
     background-color: var(--Grey);
-    min-height: 400px;
+   
 }
  aside h1{
      font-size: 29px;
