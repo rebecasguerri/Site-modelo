@@ -65,7 +65,8 @@ section#frist img{
     flex-direction: column;
     justify-content: center;
     font-size: 26px;
-    width: 300px;
+    min-width: 300px;
+    width: 400px;
     padding: 0px 30px 20px 0px;
     text-align:left ;
     
