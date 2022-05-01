@@ -57,7 +57,7 @@ section#frist img{
      flex-wrap: wrap;
      max-width: 900px;
      margin: 0 auto;  
-     padding: 90px 0px 0px 40px;
+     padding: 90px 0px 0px 30px;
     
 }
     .about div#txtuser {
@@ -65,7 +65,7 @@ section#frist img{
     flex-direction: column;
     justify-content: center;
     font-size: 26px;
-    width: 350px;
+    width: 300px;
     padding: 0px 30px 20px 0px;
     text-align:left ;
     
@@ -81,7 +81,7 @@ section#frist img{
     border-bottom: 0.8px solid #404040;
     display: flex;
     margin: 20px 0px;
-    width: 350px;
+    width: 300px;
     text-align: center;  
 }
     .about div#txtuser > h1{
