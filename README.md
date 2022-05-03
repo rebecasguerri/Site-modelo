@@ -1,9 +1,9 @@
 
 # Site modelo 
---Status:-- Finalizado
+**Status:** Finalizado
  *** 
  [Site modelo](https://rebecasguerri.github.io/Site-modelo/)
- ##  Modelo de portifolio que desenvovi com intuito de aperfeiçoar e praticar minhas habilidades na area em que atuo 
+ ##  **Modelo de portifolio que desenvovi com intuito de aperfeiçoar e praticar minhas habilidades na area em que atuo**
  ***
  ### Caracteristicas:
  - Layout desenvolvido por mim
