@@ -1,2 +1,2 @@
-# Adilson-chaves-curriculum
- site curriuclum feito por mim 
+#Site-modelo
+ site  portifolio, obtendo alta responsividade e tendo  uma boa indentação                              
