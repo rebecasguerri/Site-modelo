@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Site modelo 
---Status:-- Finalizad0
+--Status:-- Finalizado
  *** 
  [Site modelo](https://rebecasguerri.github.io/Site-modelo/)
  ##  Modelo de portifolio que desenvovi com intuito de aperfeiçoar e praticar minhas habilidades na area em que atuo 
@@ -15,7 +15,4 @@
  - CSS
  - flex-box layout
  
-=======
-#Site-modelo
- site  portifolio, obtendo alta responsividade e tendo  uma boa indentação                              
->>>>>>> bdacfb964a252b1eddf7431839ca2fc6a4796f5f
+
